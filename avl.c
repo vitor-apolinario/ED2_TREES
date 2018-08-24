@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/*POSSUI UM PROBLEMA EM UMA ROTAÇÃO ESPECÍFICA*/
+/*POSSUI UM PROBLEMA EM UMA ROTAÇÃO ESPECÍFICA VOCÊ É LIVRE PARA AJUSTÁ-LA*/
 
 typedef struct _nodo{
 	int chave;
